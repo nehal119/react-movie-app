@@ -1,6 +1,6 @@
-# Movie App
+## Building a Movie Finder using React Hooks, Context, Material-UI, JSS and Axios
 
-This app was created using `create-react-app`.
+This application is a movie searching website that calls the `OMDB API`. This project was built using React (create-react-app as a base) and the technologies used were `React Hooks`, `Material-UI`, `JSS`, and `Axios`.
 
-#### Workflow:
-It uses several technologies like `React Hooks`, `Material-UI`, and `Axios`. It collects data from `OMDB API` and diaplays on the page. It provides functionality to search for any movie from any screen within the website.    
+![Preview](preview.home.png?raw=true)
+![Preview](preview.details.png?raw=true)
