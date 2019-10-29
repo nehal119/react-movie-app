@@ -52,7 +52,7 @@ export default function MediaCard(props) {
           {props.data.Year}
         </Button>
         <Button size="small" color="primary">
-            <Link to={`/${props.data.imdbID}`} className={classes.link}>
+            <Link to={`/${props.data.imdbID}`} className={classes.link} style={{textDecoration: "none"}}>
                     KNOW MORE
             </Link>
         </Button>
